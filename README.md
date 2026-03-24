@@ -11,7 +11,17 @@
 * Rosenfeld (2015): distinguishes between 2 different Ferguson effects; studied 56 large American cities; 40 cities increased and 16 cities decreased from 2014-2015; considerable heterogeneity in city-specific trends.
 * Rosenfeld and Wallman (2019); national study of the "spike" in murder rates from 2014-15; 53 large American cities studied from 2010-2015; effort to study the effect of arrest rates on murder rates.
 * Gaston et al. (2019) studied homicide rates using CDC data from 2014-2016; goal was to determine whether police killings and civil unrest related to police killings and the opioid epidemic drove homicide rates higher in 586 urban American counties (population > 100k); found evidence in support of the Ferguson effect (particularly in the case of Black victim homicides).
-* Important themes in the literature: missing data, strong identification assumptions, and ambiguity about the proper independent variable(s) to use.
+* Important themes in the literature: missing data, strong identification assumptions, and ambiguity about the proper independent variable(s) to consider.
+
+---
+#### Two Analyses
+
+* Let *p* be the probability that a city drawn at random experiences an increase in its murder rate from 2013 to 2015.
+* Study #1: a sign test of the hypothesis that *p* = 1/2 (i.e., the murder rate is equally likely to increase or decrease from 2013 to 2015 for a randomly drawn city).
+* Let $\Delta$ be a city's murder rate in 2015 minus its murder rate in 2013.
+* Study #2: what is the typical change in the murder rate from 2013 to 2015?
+* Is *p* > 1/2?
+* Is the typical $\Delta$ > 0?
 
 ---
 #### Hypothesis
