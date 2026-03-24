@@ -1,4 +1,3 @@
----
 #### Exploring Changes in City-Level Murder Rates During the Ferguson Era: A Partial Identification Analysis
 
 * Historical events: police killings of Michael Brown in August 2014 (Ferguson, MO) and Freddie Gray in April 2015 (Baltimore, MD)
