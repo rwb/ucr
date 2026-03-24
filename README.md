@@ -86,7 +86,6 @@
 * maximum value of *p* consistent with the data: 78/82 x 48/78 + 4/82 x 4/4 = 0.634
 * notice that 0.634-0.585 = 0.049 which is the same as 4/82 (fraction of cases that are missing)
 * 95% confidence interval for the lower and upper bounds: LB: [0.462,0.701] and UB: [0.511,0.745]
-* with 4 cities missing, out of 82 cities, the dominant sign of change (p < 0.5 or p > 0.5) is not identified.
 
 ---
 #### Conclusions
